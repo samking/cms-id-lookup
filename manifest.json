@@ -13,9 +13,5 @@
     "default_icon": "icons/icon19.png",
     "default_title": "Lookup CMS IDs",
     "default_popup": "html/lookup.html"
-  },
-  "permissions": [
-    "https://*/*",
-    "http://*/*"
-  ]
+  }
 }
